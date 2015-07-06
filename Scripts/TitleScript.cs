@@ -2,6 +2,9 @@
 using UnityEngine.UI;
 using System.Collections;
 
+/// <summary>
+/// タイトル画面表示クラス.
+/// </summary>
 public class TitleScript : MonoBehaviour {
 
     [SerializeField]
